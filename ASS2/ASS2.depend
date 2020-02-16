@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1487915990 source:/home/ashtonsummers/Documents/ASS2/a2.c
+	"type.h"
+
+1485298047 /home/ashtonsummers/Documents/ASS2/type.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<time.h>
+
+1487916063 source:/home/ashtonsummers/Documents/ASS2/main.c
+	"type.h"
+

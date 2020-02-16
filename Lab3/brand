@@ -1,0 +1,19 @@
+try ls on path /usr/ls
+try ls on path /usr/local/sbin/ls
+try ls on path /usr/local/bin/ls
+try ls on path /usr/sbin/ls
+try ls on path /sbin/ls
+try ls on path /bin/ls
+total 48
+drwxr-xr-x 3 ashtonsummers ashtonsummers 4096 Feb  9 11:08 bin
+-rw-r--r-- 1 ashtonsummers ashtonsummers  165 Feb 10 14:27 brand
+-rw-r--r-- 1 ashtonsummers ashtonsummers  901 Feb 10 14:23 file
+-rw-r--r-- 1 ashtonsummers ashtonsummers    0 Feb  9 23:18 file~
+-rw-rw-r-- 1 ashtonsummers ashtonsummers 1080 Feb  9 15:01 Lab3.cbp
+-rw-rw-r-- 1 ashtonsummers ashtonsummers  202 Feb 10 14:27 Lab3.depend
+-rw-rw-r-- 1 ashtonsummers ashtonsummers  477 Feb 10 14:22 Lab3.h
+-rw-rw-r-- 1 ashtonsummers ashtonsummers  499 Feb 10 12:08 Lab3.layout
+-rw-rw-r-- 1 ashtonsummers ashtonsummers 4474 Feb 10 14:27 main.c
+-rw-r--r-- 1 ashtonsummers ashtonsummers  901 Feb 10 13:20 new
+-rw-r--r-- 1 ashtonsummers ashtonsummers 1664 Feb 10 14:27 newFile
+drwxr-xr-x 3 ashtonsummers ashtonsummers 4096 Feb  9 11:08 obj

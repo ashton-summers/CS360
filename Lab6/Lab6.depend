@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1490891133 source:/home/ashtonsummers/Documents/Lab6/main.c
+	"Lab6.h"
+
+1490892172 /home/ashtonsummers/Documents/Lab6/Lab6.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<fcntl.h>
+	<linux/fs.h>
+	<ext2fs/ext2_fs.h>
+	<linux/types.h>
+	<unistd.h>
+	<sys/stat.h>
+	<sys/types.h>
+
+1490891899 source:/home/ashtonsummers/Documents/Lab6/fs.c
+	"Lab6.h"
+
+1490891624 source:/home/ashtonsummers/Documents/Lab6/iget_iput_getino.c
+	"Lab6.h"
+

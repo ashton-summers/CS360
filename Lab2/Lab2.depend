@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1485730186 source:/home/ashtonsummers/Documents/Lab2/Lab2.c
+	"Lab2.h"
+
+1487822263 /home/ashtonsummers/Documents/Lab2/Lab2.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<libgen.h>
+
+1487822227 source:/home/ashtonsummers/Documents/Lab2/main.c
+	"Lab2.h"
+

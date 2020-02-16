@@ -1,0 +1,18 @@
+total 68
+drwxr-xr-x 3 ashtonsummers ashtonsummers 4096 Feb  9 11:08 bin
+-rw-r--r-- 1 ashtonsummers ashtonsummers  966 Feb 10 14:27 brand
+-rw-r--r-- 1 ashtonsummers ashtonsummers  250 Feb 13 21:16 brandNewFile
+-rw-r--r-- 1 ashtonsummers ashtonsummers  836 Feb 13 11:16 cold
+-rw-r--r-- 1 ashtonsummers ashtonsummers    0 Feb  9 23:18 file~
+-rw-rw-r-- 1 ashtonsummers ashtonsummers 1080 Feb  9 15:01 Lab3.cbp
+-rw-rw-r-- 1 ashtonsummers ashtonsummers  214 Feb 15 15:41 Lab3.depend
+-rw-rw-r-- 1 ashtonsummers ashtonsummers  586 Feb 10 23:20 Lab3.h
+-rw-rw-r-- 1 ashtonsummers ashtonsummers  498 Feb 15 22:10 Lab3.layout
+-rw-rw-r-- 1 ashtonsummers ashtonsummers 5096 Feb 15 22:14 main.c
+-rw-r--r-- 1 ashtonsummers ashtonsummers  233 Feb 15 22:16 newOutfile
+drwxr-xr-x 3 ashtonsummers ashtonsummers 4096 Feb  9 11:08 obj
+-rw-r--r-- 1 ashtonsummers ashtonsummers  410 Feb 15 15:22 outfile
+-rw-r--r-- 1 ashtonsummers ashtonsummers  412 Feb 15 15:29 #outfile#
+-rw-r--r-- 1 ashtonsummers ashtonsummers  233 Feb 15 15:42 outfile2
+-rw-r--r-- 1 ashtonsummers ashtonsummers  233 Feb 15 22:04 outfile3
+-rw-rw-r-- 1 ashtonsummers ashtonsummers  233 Feb 15 15:17 test

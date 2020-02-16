@@ -1,0 +1,17 @@
+
+ Case 1
+ls -f -l (unsorted)
+ls -l    (sorted alphabetically)
+
+* Case 2
+vi filename
+emacs filename
+
+* Case 3
+cat infile > outfile
+cat < outfile
+cat outfile | grep "Case"
+
+* Case 4 (Extra credit)
+
+cat outfile | grep "Case" | grep "3"

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1487297484 source:/home/ashtonsummers/Documents/Lab3/main.c
+	"Lab3.h"
+
+1487295040 /home/ashtonsummers/Documents/Lab3/Lab3.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<fcntl.h>
+	<unistd.h>
+

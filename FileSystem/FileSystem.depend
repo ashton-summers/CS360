@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1493249673 source:/home/ashtonsummers/Documents/FileSystem/fs.c
+	"fs.h"
+
+1493248782 /home/ashtonsummers/Documents/FileSystem/fs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<fcntl.h>
+	<linux/fs.h>
+	<ext2fs/ext2_fs.h>
+	<linux/types.h>
+	<unistd.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<dirent.h>
+	<libgen.h>
+
+1493246409 source:/home/ashtonsummers/Documents/FileSystem/main.c
+	"fs.h"
+
+1491002360 /home/ashtonsummers/Documents/FileSystem/iget_iput_getino.c
+	"fs.h"
+
+1493249650 source:/home/ashtonsummers/Documents/FileSystem/iget_iput_getino.c
+	"fs.h"
+
+1492736832 source:/home/ashtonsummers/Documents/FileSystem/ialloc_balloc.c
+	"fs.h"
+
+1493180044 source:/home/ashtonsummers/Documents/FileSystem/mkdir_creat.c
+	"fs.h"
+
+1493187260 source:/home/ashtonsummers/Documents/FileSystem/rmdir.c
+	"fs.h"
+
+1493231408 source:/home/ashtonsummers/Documents/FileSystem/link_unlink_symlink.c
+	"fs.h"
+
+1493231216 source:/home/ashtonsummers/Documents/FileSystem/open_close.c
+	"fs.h"
+
+1493232358 source:/home/ashtonsummers/Documents/FileSystem/read_write.c
+	"fs.h"
+
+1492820694 source:/home/ashtonsummers/Documents/FileSystem/touch_chmod.c
+	"fs.h"
+
+1493250740 source:/home/ashtonsummers/Documents/FileSystem/mount_umount.c
+	"fs.h"
+
